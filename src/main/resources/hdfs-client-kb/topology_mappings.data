@@ -1,0 +1,7 @@
+[network_topology]
+hadoop5.lts.local=/vhost12-rack
+192.168.10.25=/vhost12-rack
+hadoop3.lts.local=/vhost11-rack
+192.168.10.23=/vhost11-rack
+hadoop4.lts.local=/vhost11-rack
+192.168.10.24=/vhost11-rack
